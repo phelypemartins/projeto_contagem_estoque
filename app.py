@@ -11,7 +11,9 @@ estoque_alimentos = 50
 estoque_bebidas = 75
 estoque_limpeza = 30
 
-#Nesse bloco, foi desenvolvido um programa para retornar ao usuário, qual a quantidade disponível em estoque. Também acrescentei ao bloco de código, sistema de verificação, onde o usuário deve digitar a categoria correta para ter acesso a quantidade.
+#Nesse bloco, foi desenvolvido um programa para retornar ao usuário, qual a quantidade disponível em estoque. 
+#Também acrescentei ao bloco de código, sistema de verificação, onde o usuário deve digitar a categoria correta para ter acesso a quantidade.
+#Além de retornar a quantidade disponível em estoque.
 
 if nome_produto and categoria and quantidade_atual:
     
