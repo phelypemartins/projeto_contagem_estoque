@@ -1,5 +1,5 @@
 #Definição de variáveis/interação com usuário 
-#teste  
+  
 
 nome_produto = input('Digite o nome do produto: ')
 categoria = input('Digite a categoria: ')
